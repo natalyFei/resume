@@ -1,17 +1,25 @@
 # Глушак Наталья Олеговна
-<img src="photo.jpg" alt="Фото Натальи Глушак" width="200"/>
-
 **Системный аналитик** | Москва | Гибридный/удаленный формат
 
----
+<div align="left">
+<table>
+<tr>
+<td align="left">
+<img src="photo.jpg" alt="Фото" width="200"/>
+</td>
+<td align="left">
 
-### Контактная информация
-*   **Телефон:** +7 (914) 386-01-47 (Telegram)
-*   **Telegram:** [@taknata](https://t.me/taknata)
-*   **Email:** [pohodeiko_nataly@mail.ru](mailto:pohodeiko_nataly@mail.ru)
-*   **GitHub:** https://github.com/natalyFei
-*   **Проживание:** Москва, гражданство РФ
-*   **Предпочитаемый способ связи:** Telegram
+**Контактная информация**<br>
+• Телефон: +7 (914) 386-01-47<br>
+• Telegram: @taknata<br>
+• Email: pohodeiko_nataly@mail.ru<br>
+• GitHub: github.com/natalyFei<br>
+• Проживание: Москва
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
